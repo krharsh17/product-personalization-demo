@@ -13,7 +13,9 @@ git clone https://github.com/krharsh17/product-personalization-demo.git
 cd product-personalization-demo
 npm install
 ```
-3. Start the development server
+3. Add a `utils/serviceAccountKey.json` file from your firebase project and a FingerprintJS API key (in `pages/index.js`)
+
+4. Start the development server
 ```bash
-npm start 
+npm run dev 
 ```
