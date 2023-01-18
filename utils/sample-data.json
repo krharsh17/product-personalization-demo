@@ -1,0 +1,32 @@
+{
+  "products": {
+    "coffee" : {
+      "id": "coffee",
+      "title": "Coffee",
+      "price": 10,
+      "image": "https://source.unsplash.com/zUNs99PGDg0/300x400",
+      "createdAt": 1664298914
+    },
+    "tea" : {
+      "id": "tea",
+      "title": "Tea",
+      "price": 9,
+      "image": "https://source.unsplash.com/oBoELXgJR1w/300x400",
+      "createdAt": 1664297914
+    },
+    "milk" : {
+      "id": "milk",
+      "title": "Milk",
+      "price": 5,
+      "image": "https://source.unsplash.com/bKy9GGCAVGE/300x400",
+      "createdAt": 1664294914
+    },
+    "water" : {
+      "id": "water",
+      "title": "Water",
+      "price": 2,
+      "image": "https://source.unsplash.com/TWIRIAizZFU/300x400",
+      "createdAt": 1664292914
+    }
+  }
+}
