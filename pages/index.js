@@ -5,7 +5,6 @@ import { useRouter } from 'next/router'
 // Initialize an agent at application startup.
 const fpPromise = FingerprintJS.load({
   apiKey: '<Your API Key Here>',
-  region: 'ap'
 })
 
 
